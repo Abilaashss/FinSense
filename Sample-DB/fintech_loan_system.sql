@@ -1,4 +1,3 @@
-
 CREATE DATABASE fintech_loan_system;
 USE fintech_loan_system;
 
