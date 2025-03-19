@@ -1,0 +1,14 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue S shape -->
+  <path d="M10 15C10 15 20 15 25 15C35 15 35 25 35 30C35 35 35 45 25 45C20 45 10 45 10 45" stroke="#0055C3" stroke-width="10" stroke-linecap="round"/>
+  
+  <!-- Small blue curve at the bottom -->
+  <path d="M10 35C15 35 20 35 25 40" stroke="#0055C3" stroke-width="10" stroke-linecap="round"/>
+  
+  <!-- Green diagonal swoosh -->
+  <path d="M20 25C25 20 35 20 40 30C35 20 45 15 50 25" stroke="#1DB954" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="70" y="32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#666666">standard</text>
+  <text x="70" y="48" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#666666">chartered</text>
+</svg> 

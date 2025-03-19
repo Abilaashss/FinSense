@@ -1,0 +1,12 @@
+transformers
+pillow
+requests
+torch
+tensorflow
+einops
+flash_attn
+timm
+django
+ollama
+sentence-transformers
+rapidfuzz
