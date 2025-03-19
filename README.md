@@ -1,8 +1,6 @@
 # FinSense
 
-# OCR Document Classifier
-
-Demonstration Video - https://youtu.be/X5pfqrTf0rA
+# Demonstration Video - https://youtu.be/X5pfqrTf0rA
 
 <details>
   <summary>Table of Contents</summary>
@@ -452,6 +450,27 @@ This ensures fields like `document_id` and `dob` can interact, improving the mod
       </a>
       <br />
       <a href="https://github.com/umeshgjh">Umesh G J H</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abilaashss">
+        <img src="https://github.com/Abilaashss.png" width="60" height="60" style="border-radius: 50%;" alt="Abilaashss GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/Abilaashss">Abilaash S S</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kavya-Udhayashankar">
+        <img src="https://github.com/Kavya-Udhayashankar.png" width="60" height="60" style="border-radius: 50%;" alt="Kavya-Udhayashankar GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kavya-Udhayashankar">Kavya Udhayashankar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arvindkumar1422">
+        <img src="https://github.com/arvindkumar1422.png" width="60" height="60" style="border-radius: 50%;" alt="arvindkumar1422 GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/arvindkumar1422">Arvind Kumar</a>
     </td>
   </tr>
 </table>
