@@ -437,6 +437,22 @@ This ensures fields like `document_id` and `dob` can interact, improving the mod
 ---
 
 ## Contributors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ebullioscopic">
+        <img src="https://github.com/Ebullioscopic.png" width="60" height="60" style="border-radius: 50%;" alt="Ebullioscopic GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ebullioscopic">Hariharan Mudaliar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/umeshgjh">
+        <img src="https://github.com/umeshgjh.png" width="60" height="60" style="border-radius: 50%;" alt="umeshgjh GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/umeshgjh">Umesh G J H</a>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://github.com/Ebullioscopic.png" style="width: 60px; height: 60px; border-radius: 50%;" alt="Ebullioscopic GitHub"/><br /><sub></sub>](https://github.com/Ebullioscopic/FinSense)
-[Hariharan Mudaliar](https://github.com/Ebullioscopic)
