@@ -18,36 +18,6 @@ https://github.com/user-attachments/assets/b85fc021-cb39-4155-9dc1-c67fcabcd85e
 
 
 
-<details>
-  <summary>Table of Contents</summary>
-
-1. [Introduction](#introduction)
-2. [Globalised JSON Schema](#globalised-json-schema)
-    - [Sample Inference](#sample-inference)
-3. [Model Architecture](#model-architecture)
-   - [Approach-1](#approach-1)
-   - [Approach-2](#approach-2)
-4. [Accuracy Metrics](#accuracy-metrics)
-5. [Accuracy Estimation Method](#accuracy-estimation-method)
-6. [Datasets](#datasets)
-   - [Test Dataset](#test-dataset)
-   - [Train Dataset](#train-dataset)
-7. [Hyperparameters and AutoML Tuning](#hyperparameters-and-automl-tuning)
-8. [Technical Requirements](#technical-requirements)
-   - [Hardware Requirements](#hardware-requirements)
-   - [Software Requirements](#software-requirements)
-   - [Required Libraries](#required-libraries)
-   - [Installation and Setup](#installation-and-setup)
-9. [Code Snippets](#code-snippets)
-   - [Running on Linux](#running-on-linux)
-   - [Running on macOS](#running-on-macos)
-   - [Running on Windows](#running-on-windows)
-10. [Internal Architecture Changes with MLP Head](#internal-architecture-changes-with-mlp-head)
-11. [Conclusion](#conclusion)
-12. [Contributors](#contributors)
-
-</details>
-
 ---
 
 ## Introduction
