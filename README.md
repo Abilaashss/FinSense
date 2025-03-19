@@ -1,10 +1,16 @@
-# FinSense
+# FinSense :rocket:
 
 # Demonstration Video - https://youtu.be/X5pfqrTf0rA
 
-
-
 https://github.com/user-attachments/assets/5a3b3c37-03b9-471a-8747-a22245a6357d
+
+## Have a look at the sample AI Branch Manager Video below : 
+
+
+
+
+https://github.com/user-attachments/assets/bf55eb94-13b4-438f-abdf-cdd577abc670
+
 
 
 
@@ -41,6 +47,67 @@ https://github.com/user-attachments/assets/5a3b3c37-03b9-471a-8747-a22245a6357d
 ---
 
 ## Introduction
+
+
+
+
+https://github.com/user-attachments/assets/dcc220c2-9ddf-4cc3-bf59-c20cf270f5fe
+
+
+# FinSense Application
+
+## Overview
+
+**FinSense** is a cutting-edge application designed to streamline the Loan application and verification process using Optical Character Recognition (OCR) and AI Agents that follows rule-based approval system. This application leverages advanced technologies to assist users in applying for loans just by allowing them to take a video instead of filling lengthy forms ! 
+
+## Dont feel comfortable answering in English ? Dont worry !! We got you covered 
+
+**Translation & Transcription**: We use OpenAI Whisper and IndicWave2Vec for accurate speech-to-text conversion. Tamil transcripts are first generated and then translated into English for further processing.
+
+**Text Translation**: We leverage IndicTrans2 to convert Tamil transcripts into English before processing.
+
+**LLM for AI Agent & Q&A Mapping**: Our system is powered by LLaMA-3.2-70B, which enables intelligent agent interactions and precise question-answer mapping.
+### Prerequisites
+
+- **Node.js**: Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
+- **Python**: Ensure you have Python 3.6 or higher installed. You can download it from [python.org](https://www.python.org/).
+- **Git**: Make sure Git is installed. You can download it from [git-scm.com](https://git-scm.com/).
+
+### Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/Abilaashss/FinSense.git
+   cd FinSense
+   ```
+
+2. **Install Node.js Dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Install Python Dependencies**:
+
+   Navigate to the `Document-Identifier` directory and install the required Python packages:
+
+   ```bash
+   cd Document-Identifier
+   pip install -r requirements.txt
+   ```
+
+### Running the Application
+
+1. **Start the Next.js Development Server**:
+
+   From the root directory of the project, run:
+
+   ```bash
+   npm run dev
+   ```
+
+
 
 The **OCR Document Classifier** is designed to recognize and extract structured data from various identification documents, including PAN cards, Aadhaar cards, Passports, and Driving Licenses. The model leverages state-of-the-art image recognition, text extraction, and natural language processing techniques to convert document images into a structured **JSON** format.
 
