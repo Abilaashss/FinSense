@@ -518,7 +518,14 @@ This ensures fields like `document_id` and `dob` can interact, improving the mod
         <img src="https://github.com/arvindkumar1422.png" width="60" height="60" style="border-radius: 50%;" alt="arvindkumar1422 GitHub"/>
       </a>
       <br />
-      <a href="https://github.com/arvindkumar1422">Arvind Kumar</a>
+      <a href="https://github.com/Siddhushady">R Siddharth</a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/Siddhushady">
+        <img src="https://github.com/arvindkumar1422.png" width="60" height="60" style="border-radius: 50%;" alt="arvindkumar1422 GitHub"/>
+      </a>
+      <br />
+      <a href="https://github.com/Siddhushady">R Siddharth</a>
     </td>
   </tr>
 </table>
